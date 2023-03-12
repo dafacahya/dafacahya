@@ -1,2 +1,2 @@
 Hi im Dafa Cahya Adi Pratama 
-im just newbie for Machine Learning path by python 
+Just other normal people like programming 
