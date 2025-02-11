@@ -1,2 +1,1 @@
-Hi im Dafa Cahya Adi Pratama 
-Just other normal people like programming 
+A large number of GitHub repositories doesn’t necessarily reflect the quality of work. I focus on meaningful projects that demonstrate deep understanding and real impact, rather than just adding to the count.
